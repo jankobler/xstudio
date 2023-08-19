@@ -4,7 +4,6 @@ SET(LINK_DEPS
 	nlohmann_json::nlohmann_json
 	reproc++
 	spdlog::spdlog
-	stdc++fs
 	uuid
 )
 
@@ -14,7 +13,6 @@ SET(STATIC_LINK_DEPS
 	nlohmann_json::nlohmann_json
 	reproc++
 	spdlog::spdlog
-	stdc++fs
 	uuid
 )
 

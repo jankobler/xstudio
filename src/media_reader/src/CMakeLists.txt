@@ -4,7 +4,6 @@ SET(LINK_DEPS
 	xstudio::global_store
 	xstudio::broadcast
 	caf::core
-	stdc++fs
 	dl
 )
 
